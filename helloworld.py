@@ -1,2 +1,1 @@
-def helloworld():
-def I am adi():
+print("helloworld")
